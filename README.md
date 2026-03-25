@@ -59,4 +59,4 @@ Monitor sales KPIs in real time
 Compare monthly, quarterly, and yearly performance
 Track model-wise, region-wise, and payment-wise trends
 Evaluate customer satisfaction using rating data
-Analyze time-series trends using MTD and SPLY logic
+Analyze time-series trends using MTD and SPLY logic.
